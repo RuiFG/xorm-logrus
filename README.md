@@ -3,7 +3,7 @@
 xorm-logrus is a xorm logger implemented using logrus
 # Installation
 ```shell script
-go get github.com/RuiFG/gin-logrus
+go get github.com/RuiFG/xorm-logrus
 ```
 # Simple Example
 ```go
